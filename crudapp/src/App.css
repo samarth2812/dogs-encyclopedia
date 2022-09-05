@@ -1,0 +1,47 @@
+.App{
+  margin: 0 auto;
+  width: 100%;
+  
+}
+.listView{
+  margin:0 auto;
+  display: flex;
+  justify-content: center;
+}
+.myform{
+  margin: 0 auto;
+  width: 50%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+.formfield{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border-radius: 5px;
+  box-sizing: border-box;
+
+}
+.myButton{
+  width: 100%;
+  background-color: #00b894;
+  color: white;
+  padding: 14px 20px;
+  margin:8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+}
+
+.table{
+  background-color: rgb(79, 62, 234);
+  width: 50%;
+  margin:0 auto;
+  text-align: center;
+}
